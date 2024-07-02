@@ -24,7 +24,7 @@ Let's start with a basic example using the Hello World example.
 
 SpotGL is implemented in python so it might be easy.
 
-'''
+''
 when(run occurs)
 animate(text[Hello World])
-'''
+''
