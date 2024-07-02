@@ -1,3 +1,5 @@
+<img width="250" alt="image" src="https://github.com/Weno-Inc/SpotGL/assets/170777576/75cc1682-24dc-4cde-a106-f2687cd534c4">
+
 ## 
 **SpotGL Documentation**
 
